@@ -92,7 +92,7 @@ export function InfoDialog({ kind, onOpenChange }: { kind: InfoDialogKind; onOpe
                 </div>
                 <div className="flex justify-between gap-4 px-3 py-2.5 text-sm">
                   <dt className="text-muted-foreground">Education</dt>
-                  <dd className="text-right font-medium text-foreground">BTech – NIT Raipur</dd>
+                  <dd className="text-right font-medium text-foreground">B.Tech : National Institute of Technology Raipur</dd>
                 </div>
                 <div className="flex justify-between gap-4 px-3 py-2.5 text-sm">
                   <dt className="text-muted-foreground">Batch</dt>
